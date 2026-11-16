@@ -1,7 +1,7 @@
 # see-page
 
 ## 用途
-这个目录是独立的 GitHub Pages 静态网页项目，只用于发布 `index.html`。
+这个目录是独立的 GitHub Pages 静态网页项目，只用于发布 `index.html`
 
 ## 结构约定
 - `index.html`：网页入口文件。
